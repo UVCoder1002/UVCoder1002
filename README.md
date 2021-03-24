@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter and Express framework 
 - 💞️ I’m looking to collaborate on FLutter development and research projects
 - 📫 How to reach me uv6coder@gmail.com
-- :collision: 
+- :collision:Life rule:ALways Be Unique,Always Be You :) 
 
 <!---
 UVCoder1002/UVCoder1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
