@@ -1,4 +1,4 @@
-# Hola Devs!! <img src="https://raw.githubusercontent.com/UVCoder1002/UVCoder1002/main/wave.gif" width="30px">
+# Hola Devs!! <img src="https://raw.githubusercontent.com/UVCoder1002/UVCoder1002/main/wave.gif" width="30px" height = "30px">
 
 - 👋 Hi, I’m @UVCoder1002 "PROGRAMMING name for Urvashi!!"
 - 👀 I’m interested in Mobile App Development and Java Development
