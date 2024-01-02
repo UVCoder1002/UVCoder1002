@@ -2,8 +2,9 @@
 
 - 👋 Hi, I’m @UVCoder1002 "PROGRAMMING name for Urvashi!!"
 - 👀 I’m interested in Mobile App Development and Java Development
-- 🌱 I’m currently learning Flutter and Express framework 
-- 💞️ I’m looking to collaborate on FLutter development and research projects
+- 🔍 Interested in exploring different Technological Fields
+- 🌱 I’m currently learning Swift Development 
+- 💞️ I’m looking to collaborate on Mobile development and research projects
 - 📫 How to reach me uv6coder@gmail.com
 - :collision:Life rule:Always Be Unique,Always Be You :) 
 
