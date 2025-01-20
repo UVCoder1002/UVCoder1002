@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @UVCoder1002 "PROGRAMMING name for Urvashi!!"
 - 👀 I’m interested in Mobile App Development and Java Development
 - 🔍 Interested in exploring different Technological Fields
-- 🌱 I’m currently learning Swift Development 
-- 💞️ I’m looking to collaborate on Mobile development and research projects
+- 🌱 I’m currently learning and exploring scalable backend development
+- 💞️ I’m looking to collaborate on mobile and backend development projects
 - 📫 How to reach me uv6coder@gmail.com
 - :collision:Life rule:Always Be Unique,Always Be You :) 
 
